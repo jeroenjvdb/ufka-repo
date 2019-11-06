@@ -1,0 +1,422 @@
+@import "bootstrap";
+@import "font-awesome";
+@import "animate";
+
+/*---- Custom CSS ----*/
+
+/*---- Chrome webfont fix ----*/
+body {
+  -webkit-animation-duration: 0.1s;
+	-webkit-animation-name: fontfix;
+	-webkit-animation-iteration-count: 1;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-delay: 0.1s;
+}
+@-webkit-keyframes fontfix {
+	from{ 	opacity: 1; }
+	to{	opacity: 1; }
+}
+
+/*---- layouts.app ----*/
+html {
+  position: relative; //sticky footer
+  min-height: 100%; //sticky footer
+}
+body {
+  margin-top: $navbar-height;
+	margin-bottom: $standard-margin; //used to pass variable to jquery
+}
+.page-header {
+	margin-top: 0;
+}
+.vertical-align {
+	display: flex;
+  align-items: center;
+}
+.content-block {
+	margin-bottom: $standard-margin;
+	
+	&.dark {
+		background-color: $gray-lighter;
+		padding: $standard-margin-md 0;
+	
+		.page-header {
+			border-color: darken($gray-lighter, 10%);
+		}
+	}
+}
+.header-alert {
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+  margin-bottom: 0;
+  border-radius: 0;
+  text-align: center;
+}
+
+/*---- Navbar ----*/
+nav.navbar {
+  box-shadow: 0 0 4px rgba(0,0,0,.14),0 4px 8px rgba(0,0,0,.28);
+	border-bottom: 0px;
+}
+.navbar-header img {
+	height: $navbar-height - 8px;
+	padding: 8px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
+	
+	@media (min-width: $grid-float-breakpoint) {
+    .navbar > .container &,
+    .navbar > .container-fluid & {
+      margin-left: -$navbar-padding-horizontal;
+    }
+  }
+}
+#navbar-page-links a:hover, #navbar-page-links > .active > a {
+	@media (min-width: $grid-float-breakpoint) {
+		$border-width: 3px;
+		border-bottom: $border-width solid $brand-primary;
+		padding-bottom: $navbar-padding-vertical - $border-width;
+		background-color: transparent;
+	}
+}
+/*.navbar-right a {
+	$font-size: 40px;
+	font-size: $font-size;
+	@media (min-width: $grid-float-breakpoint) {
+		padding-top: ($navbar-height - $font-size)/2;
+		padding-bottom: ($navbar-height - $font-size)/2;
+	}
+}*/
+#facebook-link a, #instagram-link a, #twitter-link a {
+	$font-size: 40px;
+	font-size: $font-size;
+	
+	@media (min-width: $grid-float-breakpoint) {
+		padding-top: ($navbar-height - $font-size)/2;
+		padding-bottom: ($navbar-height - $font-size)/2;
+	}
+	@media (max-width: $grid-float-breakpoint) {
+		display: inline-block;
+	}
+}
+#instagram-link, #facebook-link, #twitter-link {
+	@media (max-width: $grid-float-breakpoint) {
+    display: inline-block;
+  }
+}
+#facebook-link a:hover {
+	color: #3B5998;
+}
+#instagram-link a:hover {
+	color: #b033b1;
+}
+#twitter-link a:hover {
+	color: #1da1f2;
+}
+
+$speed: 300ms;
+$easing: cubic-bezier(0.7, 0, 0, 0.7);
+.navbar-toggle {
+  overflow: hidden;
+
+  .icon-bar {
+    transition: opacity, transform;
+    transition-duration: $speed;
+    transition-timing-function: $easing;
+  }
+  &:not(.collapsed) {
+    .icon-bar {
+      &:nth-child(2) {
+        transform: translateY(6px) rotate(45deg);
+      }
+      &:nth-child(3) {
+        opacity: 0;
+        transform: translateX(-100%);
+      }
+      &:nth-child(4) {
+        transform: translateY(-6px) rotate(-45deg);
+      }
+    }
+  }
+}
+
+/*---- Carousel ----*/
+div.carousel {
+	margin-bottom: $standard-margin;
+}
+.carousel-inner .item {
+	min-height: 300px;
+	max-height: 1200px;
+	height: 60vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-color: $brand-primary;
+	filter: brightness(70%);
+	-webkit-filter: brightness(70%);
+}
+div#carousel-hover {
+	position: absolute;
+  left: 15%;
+  bottom: 60px;
+	width: 70%;
+	height: 75%;
+  color: white;
+  text-align: center;
+	display: flex; 
+	flex-direction: column;
+}
+#carousel-hover h1 {
+	@media (max-width: $grid-float-breakpoint) {
+		font-size: $font-size-h2;
+	}
+}
+#carousel-hover img {
+  height: 1px;
+	max-height: 300px;
+}
+#carousel-hover-image-wrapper {
+	flex-grow: 1;
+	height: 100%;
+}
+
+/*---- Sponsors ----*/
+div#sponsors {
+	margin-bottom: $standard-margin;
+	text-align: center;
+}
+#sponsors img {
+	width: 100%;
+	max-width: 92px;
+}
+
+/*---- Praeses Dixit ----*/
+#praeses-dixit {
+	margin-bottom: $standard-margin;
+
+	.page-header {
+		margin-top: 0px;
+	}
+	div {
+		font-family: inherit !important;
+		font-size: $font-size-base !important;
+	}
+	p {
+		margin-bottom: 0 !important;
+	}
+}
+#praeses-dixit div:last-child {
+	margin-bottom: 0 !important;
+}
+#praeses-dixit div:last-of-type {
+	margin-bottom: 0 !important;
+}
+
+/*---- Sidebar ----*/
+#sidebar {
+	$padding: 15px;
+	background-color: $brand-primary;
+	color: white;
+	padding: $padding;
+	border-radius: 3px;
+
+	.glyphicon-send {
+		margin-right: 10px;
+	}
+	textarea {
+		resize: vertical;
+		max-height: 200px;
+		@include form-control-focus(lighten($input-border-focus, 50%));
+	}
+	p {
+		margin-bottom: $standard-margin-xs;
+	}
+	#rc-imageselect, .g-recaptcha {
+		$factor: 0.85;
+		transform: scale($factor);
+		-webkit-transform: scale($factor);
+		transform-origin: 0 0;
+		-webkit-transform-origin: 0 0;
+	}
+	&.affix {
+		top: $navbar-height + 20px;
+	}
+	&.affix-bottom {
+		position: relative;
+	}
+  .alert {
+    margin-bottom: 0;
+    
+    ul {
+      padding-left: 10px;
+    }
+  }
+	
+	@media (max-width: $screen-md-min) {
+		margin-bottom: $standard-margin;
+	}
+}
+
+/*---- Over ----*/
+#praesidium {
+	img {
+		width: 100%;
+    position: absolute;
+	}
+	.row {
+		margin-bottom: -$standard-margin-sm; //not working
+	}
+	.member {
+		position: relative;
+		width: 100%;
+		min-width: 200px;
+		max-width: 400px;
+		margin: 0 auto $standard-margin-sm auto;
+    
+    .image {
+      position:relative;
+      overflow:hidden;
+      padding-bottom:100%;
+    }
+	}
+	.img-overlay {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		background-color: rgba(33, 154, 13, 0.75);
+		color: white;
+		padding: 10px;
+		width: 100%;
+		text-align: left;
+	}
+	.img-overlay-social {
+		visibility: hidden;
+		opacity: 0;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		background-color: rgba(33, 154, 13, 0.75);
+		color: white;
+		padding: 10px;
+		width: 100%;
+		height: 100%;
+		text-align: left;
+		@include transition(opacity 0.3s ease-in-out, visibility 0s linear 0.3s);
+		
+		ul {
+			list-style-type: none;
+			padding: 0;
+			text-align: center;
+			font-size: 30px;
+			margin-top: 30%;
+		}
+		li {
+			display: inline;
+			padding: 10px;
+		}
+		a {
+			color: white;
+			visibility: hidden;
+		}
+		a:hover {
+			color: lighten($gray, 40%);
+		}
+	}
+	.member:hover .img-overlay-social ,
+	.member:hover .img-overlay-social a {
+		visibility: visible;
+		opacity: 1;
+		transition-delay: 0s;
+	}
+	h4, p {
+		margin: 0px;
+	}
+	h4 {
+		margin-bottom: 5px;
+	}
+}
+#clublied {
+	p {
+		font-style: italic;
+	}
+	img {
+		display: block;
+		width: 80%;
+		margin: auto;
+		margin-top: $standard-margin-md;
+	}
+}
+
+/*---- Kalender ----*/
+#kalender {
+  margin-bottom: $standard-margin;
+  
+  .view-container-border {
+    padding: 0;
+  }
+}
+.view-container-border {
+  padding: 0 !important;
+}
+
+/*---- Contact ----*/
+#contact-form {
+	.glyphicon-send {
+		margin-right: 10px;
+	}
+	textarea {
+		resize: vertical;
+		max-height: 300px;
+	}
+}
+
+/*---- Sponsors ----*/
+#sponsors-large div#sponsors {
+	margin-bottom: $standard-margin;
+	text-align: center;
+	
+	img {
+		width: 100%;
+		max-width: 130px;
+	}
+	.row ~ .row {
+		border: 1px solid red;
+	}
+}
+#sponsors-info {
+	font-size: $font-size-large;
+}
+
+/*---- Footer ----*/
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  @include gradient-vertical($gray-darker, lighten($gray-darker, 8%));
+	border-top: 3px solid $brand-primary;
+	color: $gray-light;
+	
+	#top-footer {
+		margin-bottom: $standard-margin-sm;
+		margin-top: $standard-margin-sm;
+	}
+	#footer-logo {
+		text-align: center;
+	}
+	#bottom-footer {
+		background-color: $gray-darker;
+		padding: $standard-margin-xs + 10px 0 $standard-margin-xs 0;
+	}
+	img {
+		height: 230px;
+		margin: 50px 0px;
+		filter: brightness(50%);
+		-webkit-filter: brightness(50%);
+	}
+	h3 {
+		text-align: center;
+		margin-bottom: $standard-margin-sm;
+		padding-bottom: $standard-margin-xs;
+		border-bottom: 1px solid $gray;
+	}
+}

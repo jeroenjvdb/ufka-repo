@@ -1,0 +1,27 @@
+-   = remove
++   = add
+*   = improve
+/   = fix
+
+Priority 1:
+
+Priority 2:
+/    fix praesidium on mobile: when tapping an image to show social links it might already trigger one of the links
+/    mail ssl not always working?
+/    contact form -> fix from email address
+/    fix praesidium row negative bottom margin
+*    carousel hover vertically center image and text
+/    fix 'background-size: cover' on ios
+/    fix 'background-attachment: fixed' on mobile chrome
+*    replace logos with vector image where possible
+*    take in account fixed header when linking to id's. example: http://www.ufka.be/contact#contact-form
+
+Priority 3:
+*    calculate carousel height to make sure all sponsors are visible in viewport
++    parallax on carousel -> stellar.js
+*    update jquery
+*    update bootstrap js
+/    fix viewport height glitch on mobile chrome
+*    find reason and better fix for 30px offset on affix bottom
+*    find better fix for praeses dixit bottom margin -> currently just editing html in blogger
+*    re-enable sidebar -> affix.js
