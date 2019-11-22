@@ -276,7 +276,7 @@ div#sponsors {
     .image {
       position:relative;
       overflow:hidden;
-      padding-bottom:100%;
+      padding-bottom:66%;
     }
 	}
 	.img-overlay {
@@ -291,6 +291,7 @@ div#sponsors {
 	}
 	.img-overlay-social {
 		visibility: hidden;
+		z-index: 1;
 		opacity: 0;
 		position: absolute;
 		bottom: 0;
@@ -308,7 +309,7 @@ div#sponsors {
 			padding: 0;
 			text-align: center;
 			font-size: 30px;
-			margin-top: 30%;
+			margin-top: 20%;
 		}
 		li {
 			display: inline;
