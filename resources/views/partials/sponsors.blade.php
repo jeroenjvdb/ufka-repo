@@ -47,11 +47,7 @@ if(!isset($outerCol, $innerCol)){
 					<img src="{{ asset('img/logos/sponsors/vfso-logo.png') }}" class="sponsor-image" alt="vfso logo"/>
 				</a>
 			</div>
-			<div class="{{ $innerCol }}">
-				<a href="https://www.vfso.be/" target="_blank">
-					<img src="{{ asset('img/logos/sponsors/vfso-logo.png') }}" class="sponsor-image" alt="vfso logo"/>
-				</a>
-			</div>
+			
 		</div>
 	</div>
 </div>
