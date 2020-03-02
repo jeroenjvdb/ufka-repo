@@ -10429,10 +10429,10 @@ div.carousel {
 .carousel-inner .item {
   min-height: 300px;
   max-height: 1200px;
-  height: 60vh;
+  height: 75vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position-x: center;
   background-size: cover;
   background-color: #219a0d;
   filter: brightness(70%);
@@ -10544,7 +10544,7 @@ div#sponsors {
   #praesidium .member .image {
     position: relative;
     overflow: hidden;
-    padding-bottom: 100%; }
+    padding-bottom: 66%; }
 
 #praesidium .img-overlay {
   position: absolute;
@@ -10558,6 +10558,7 @@ div#sponsors {
 
 #praesidium .img-overlay-social {
   visibility: hidden;
+  z-index: 1;
   opacity: 0;
   position: absolute;
   bottom: 0;
@@ -10574,7 +10575,7 @@ div#sponsors {
     padding: 0;
     text-align: center;
     font-size: 30px;
-    margin-top: 30%; }
+    margin-top: 20%; }
   #praesidium .img-overlay-social li {
     display: inline;
     padding: 10px; }
