@@ -25,7 +25,7 @@ if(!isset($outerCol, $innerCol)){
 			</div>
 			<div class="col-xs-3">
 				<a href="http://www.radioexpres.be/" target="_blank">
-					<img src="{{ asset('img/logos/sponsors/rex-logo.jpg') }}" class="sponsor-image" alt="guido logo"/>
+					<img src="{{ asset('img/logos/sponsors/REX-logo.jpg') }}" class="sponsor-image" alt="radio expres logo"/>
 				</a>
 			</div>
 		</div>
