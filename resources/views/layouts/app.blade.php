@@ -81,6 +81,7 @@
             <li id="facebook-link"><a href="https://www.facebook.com/UFKAntwerpen/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
             <li id="instagram-link"><a href="https://www.instagram.com/ufkantwerpen/" target="_blank"><i class="fa fa-instagram"></i></a></li>
             <li id="twitter-link"><a href="https://twitter.com/UFKAntwerpen" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+            <li id="linkedin-link"><a href="https://www.linkedin.com/company/ufkantwerpen/" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
           </ul>
         </div>
       </div>

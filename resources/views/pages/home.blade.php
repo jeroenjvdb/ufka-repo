@@ -26,17 +26,33 @@
           }
         ?>
 
-<p>Beste UFKAjaantjes</p>
-<p>We zijn al een goeie maand ver in dit academiejaar, maar wat voor een maand was me dit. Het begon met prachtig weer op de openingsdag waar we jullie konden laten genieten van de overheerlijke kaaskroketten die we voor jullie hebben gemaakt. Toen hadden we al door dat jullie er een serieuze lap op willen geven dit jaar. Dit werd nogmaals bevestigd op het openingsvatje, waar de eerste vaten van het lustrumjaar in een mum van tijd helemaal geledigd waren. (focking animals) </p>
-<p>In tussentijd is er ook een nieuwe lading stinkende schachten aangekomen in Wilrijk. Op 15 oktober hebben onze Schachtentemster Sarah en Zedenmeester Robbe de schachten de meest blije dag van hun leven bezorgt. Deze zullen zij nooit vergeten. Dat ze niet konden zuipen zagen we al van ver, hopelijk leren ze dit nog gedurende het jaar. Op de doopcantus waren ze ook allemaal niks waard (just gelijk onze temster die avond), hopelijk vinden we op de schachtenkoning(in)cantus (4 november) waardige opvolgers voor Louise en Carlos. </p>
-<p>De komende maanden staat de agenda bomvol om iedereen de nodige ontspanning aan te bieden tussen de lessen en practica door. Zo staat er op donderdag 7 november een klassieker op jullie te wachten namelijk EURODEALS TD. Kom mee genieten van de zotte acties die u maar 1 euro gaat kosten! Na wat te zwijnen in de KP is het tijd om het nieuwe kleedje dat je gekocht hebt eindelijk eens aan te doen of het kostuum dat je al jaren hebt nog eens vanonder het stof te halen, want op 15 november is er ons Galabal dat dit jaar georganiseerd is door Lieze. Naast een fancy dansfeest en vele verrassingen kan er ook genoten worden van een 3 gangenmenu met 3u lang drank a volonté! De laatste TD van dit semester zal samen met kinesia zijn, waar we de KP helemaal gaan omvormen tot een zee van goud. Maar het belangrijkste is dat het een ALL-IN TD wordt!!!!</p>
-<p>De ouwezakken zullen hun doopfrak en lint nog eens van onder het stof mogen halen op zaterdag 30 november.</p> 
-<p>Dankzij onze Natan staat er weer een prachtige skireis op de planning in de lesvrijeweek, er zijn nog een beperkt aantal plaatsten over, dus als je kan nog mee als je wilt. Niet twijfelen is de boodschap! </p>
-<p>Zo geniet nog verder van deze gaper en tot de volgende UFKA activiteiten xxx</p>
-<p>Dixit,</p>
-<p>Pierre-Emmanuel De Smedt</br>
-UFKA praeses 2019-2020</br>
+<p>Geachte commilitones,</p> 
+<p>Het coronavirus heeft onze samenleving en het studentenleven volledig stilgelegd, zo ook ons 55ste jaar van UFKA. Het begon allemaal op maandag 23 september. De zon scheen, de eerste pintjes van het academiejaar werden geklonken en het voornaamste was dat we allemaal samen waren om van dit lustrumjaar een top jaar te maken.  De gratis vaten vloeiden rijkelijk, de gratis acties werden gesmaakt en iedereen had het naar zijn zin op de activiteiten van dit jaar. Dit is allemaal te danken aan een fantastisch praesidium! Hoe zij zich hebben ingezet afgelopen jaar, was prachtig om te zien. Na al die maanden is het hoogtijd om iedereen te bedanken voor dit jaar, dat ik nooit zal vergeten.</p> 
+<p>Eerst en vooral wil ik mijn mede-feest van vorig jaar Sarah bedanken. Een betere schachtentemmer en skimaatje kon ik mij niet wensen. De schachten hebben kunnen genieten van de blijendag die Robbe en jij hebben voorbereid voor hun. Jullie zijn erin geslaagd om die bende stinkende zwijnen op te leiden tot waardige commilitones! (alle bijna, nu is het nog steeds een stinkende bende)</p> 
+<p>Robbe jongen, u kan ik ook net zoals Sarah niet genoeg bedanken om de doop te regelen en de schachten een pracht jaar te geven! Naast zedenmeester was je ook feest en ik weet maar al te goed hoe moeilijk deze job is. Samen met Louise en Liam heb jij je 100% gegeven om alles op tijd op de events te krijgen. Geen ritje was te veel, geen winkel was te ver, geen kratje cara was te veel om mee te nemen, echt aan alle drie duuzendmaal dank hiervoor.  </p> 
+<p>Vervolgens wil ik mijn Quaestor Nina ook in de bloemetjes zetten. Voor het tweede jaar op rij heb jij deze functie op je genomen. Net zoals in het eerste jaar heb je gewaakt over het geld en kon je mij steeds zeggen of we er nog een gratis vat konden bijgeven. Zonder u konden we niet zo’n succesvol lustrumjaar bekomen! </p> 
+<p>Hanne en Carlos, onze beide public relations van dit jaar. Veel leden (waaronder ikzelf) zullen jullie dankbaar zijn voor de goed gevoelde goodiebag op de openingsdag. Jullie mogen ook echt enorm trots zijn op afgelopen jaar door het binnenhalen van nieuwe partners, het begin van UFKA op trooper en de goed georganiseerde lezingen. Dit is allemaal aan jullie te danken!</p> 
+<p>De persoon wie de studenten het meest dankbaar zullen zijn is ongetwijfeld Alexi. Dankzij u is er weer een prachtige examenbundel gemaakt die iedereen ongetwijfeld heeft geholpen tijdens de examens. Hartelijk bedankt hiervoor en om de vergaderingen tot in de puntjes uit te schrijven. </p> 
+<p>Yoram, in het begin zijn we een paar keer gebotst, maar jij hebt u zo goed herpakt, waarna ik direct merkte dat ik op je kon rekenen. Bedankt om UFKA naar de volgende ronde te leiden in den ASL, jammer genoeg heeft corona ons de beker ontnomen. De beker is coming home next year.</p> 
+<p>De roddelaars van het praesidium, de 2 scriptoren Manu en Margot, bedankt voor de vele roddels en de uren leesplezier in de gapers van dit jaar! Fantastische scriptoren waren jullie! Zonder ik iets vroeg waren de gapers al klaar of stonden de foto’s al online. </p> 
+<p>Han en Ruben, mijn partners in crime aan de voortafel, bedankt om mij bij te staan als cantor en onze commilitones zalige cantussen te geven! </p> 
+<p>Magomed, merci voor de pareltjes van banners die je dit jaar gemaakt hebt! Ik moest het maar vragen en een paar uur later was de banner al af. Ik ben er zeker van dat je veel mensen hebt weten overtuigen om naar onze activiteiten te komen.</p> 
+<p>Philip, na een jaartje rust was ik maar al te blij dat je terug deel uitmaakte van het praesidium. Je hebt je helemaal gesmeten als praegustator. Mega zatte kroegentochten, toffe caféavonden en normaal ging er nog een zot ledenweekend volgen. Misschien kunnen we deze zomer toch nog een ledenweekend organiseren. </p> 
+<p>Lépèle, lepel, Natan, man toch 3 jaar lang ski van UFKA, wie had da ooit verwacht? Je hebt in deze 3 jaar veel mensen de tijd van hun leven bezorgd door ze elk jaar opnieuw een top skireis te kunnen aanbieden. Je bent er jammer genoeg niet veel kunnen bijzijn afgelopen jaar, maar de momenten dat je er was, kon ik altijd op je rekenen! Alleen papieren laten meenemen was te moeilijk blijkbaar, merci Helena! 😉</p> 
+<p>Stephanie, onze zatte mama van het praesidium, bedankt om mij bij te staan en het constructief advies dat je mij afgelopen jaar hebt gegeven, maar vooral bedankt om samen 10 keer naar de rechtbank te gaan om de vzw in orde te brengen and we did it! Uw metervatje gaan we zo snel mogelijk aanslaan vanaf we terug buiten mogen! </p> 
+<p>Fien en Lieze, mijn vice’s, mijn klaagmuur, mijn partners in crime op kringraad, mijn secretaresses, maar vooral vriendinnen waar ik altijd op kon rekenen! Wat had ik moeten doen zonder jullie? Op elk moment van de dag kon ik op jullie advies en raad rekenen. Nu we allemaal thuis in quarantaine zitten, zullen nog veel mensen denken aan UFKA door de truien die ze aan u te danken hebben, Fien! Bedankt om deze te ontwerpen en zo snel in orde te krijgen! </p> 
+<p>Ons Lieze hoe kan ik u bedanken voor dit fantastische jaar? Ik wist op voorhand dat je het heel druk ging hebben met je stage en thesis, maar toch bleef je u 100% geven voor de club en zeker voor het prachtige galabal! Ik denk hier nog vaak aan terug hoe geweldig dit galabal was en dit is allemaal aan u te danken. </p> 
+<p>Last but not least, onze Jef. Eerst en vooral wil ik u bedanken om er elke maandagavond voor te zorgen dat UFKA het beste van zichzelf gaf op de interfacs, zowel op het veld als aan de toog. Maar vooral bedankt om mij volgend jaar op te volgen als Praeses. Ik kan met mijn volste vertrouwen de fakkel aan u doorgeven en ben er zeker van dat ook het 56ste jaar van UFKA een topjaar wordt!</p> 
+<p>Bedankt nog eens allemaal! Wij hebben van dit lustrumjaar een prachtjaar gemaakt, meer dan ik had durven dromen! Dit jaar zal mij voor heel mijn leven bijblijven en dit allemaal dankzij jullie! Het was mij een genoegen om Praeses te mogen zijn van dit fantastisch praesidium en deze prachtige club! Hou jullie goed en tot snel! </p> 
+<p>Ut Vivat, Crescat, Floreatque</p> 
+<p>UFKA!</p> 
+<p>Dixit,</p> 
+<p>Pierre-Emmanuel De Smedt <br>
+UFKA Praeses 2019-2020 <br>
 UFKA Feest 2018-2019</p>
+
+
+
 
 
 
